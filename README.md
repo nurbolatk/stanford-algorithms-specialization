@@ -1,2 +1,2 @@
 # stanford-algorithms-specialization
-Programming assignments in JavaScript
+My solutions in JavaScript
