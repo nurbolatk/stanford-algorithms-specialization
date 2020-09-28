@@ -48,7 +48,6 @@ try {
   let input2 = data.split('\r\n')
   input2.pop()
   input2 = input2.map(num => parseInt(num))
-  console.log(input2.length)
   const [_, num] = countInv(input2)
   console.log(num)
 } catch (error) {
